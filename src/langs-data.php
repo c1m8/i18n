@@ -63,7 +63,7 @@ return [
 		'flag'      => I18N_URL .'img/flags/4x3/tr.svg',
 	],
 	'ua' => [
-		'lang_name'	=> 'Український',
+		'lang_name' => 'Український',
 		'name_sh' 	=> 'Ua',
 		'locale'    => 'uk_UA',
 		'flag'      => I18N_URL .'img/flags/4x3/ua.svg',
